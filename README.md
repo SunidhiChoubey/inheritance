@@ -159,7 +159,14 @@ int main() {
 }
 ~~~
 
-## Output
+## Output-
+![](https://github.com/SunidhiChoubey/inheritance/blob/main/Screenshot%202024-10-01%20021541.png)
+![](https://github.com/SunidhiChoubey/inheritance/blob/main/Screenshot%202024-10-01%20021521.png)
+![](https://github.com/SunidhiChoubey/inheritance/blob/main/Screenshot%202024-10-01%20021502.png)
+![](https://github.com/SunidhiChoubey/inheritance/blob/main/Screenshot%202024-10-01%20021439.png)
+
+## Conclusion-
+ we learnt about different types of inheritance
 
 
 
